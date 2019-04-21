@@ -13,6 +13,9 @@
 * [中文整理的强化学习资料（Reinforcement Learning）](https://github.com/wwxFromTju/awesome-reinforcement-learning-zh)
 * [A curated list of awesome information retrieval resources](https://github.com/harpribot/awesome-information-retrieval)
 * [A collection of various awesome lists for hackers, pentesters and security researchers](https://github.com/Hack-with-Github/Awesome-Hacking)
+* [A curated list of pretrained sentence(and word) embedding models](https://github.com/Separius/awesome-sentence-embedding)
+* [Awesome Incremental Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
+* [awesome-python](https://github.com/vinta/awesome-python)
 
 ## 一些公开数据集整理
   * [An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone!](https://github.com/awesomedata/awesome-public-datasets)
