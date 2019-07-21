@@ -16,6 +16,7 @@
 * [A curated list of pretrained sentence(and word) embedding models](https://github.com/Separius/awesome-sentence-embedding)
 * [Awesome Incremental Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
 * [awesome-python](https://github.com/vinta/awesome-python)
+* [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
 
 ## 一些公开数据集整理
   * [An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone!](https://github.com/awesomedata/awesome-public-datasets)
