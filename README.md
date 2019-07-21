@@ -17,6 +17,8 @@
 * [Awesome Incremental Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
 * [awesome-python](https://github.com/vinta/awesome-python)
 * [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
+* [Awesome Anomaly Detection](https://github.com/zhuyiche/awesome-anomaly-detection)
+* [Awesome Meta Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning)
 
 ## 一些公开数据集整理
   * [An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone!](https://github.com/awesomedata/awesome-public-datasets)
