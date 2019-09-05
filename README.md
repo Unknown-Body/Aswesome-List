@@ -20,6 +20,7 @@
 * [Awesome Anomaly Detection](https://github.com/zhuyiche/awesome-anomaly-detection)
 * [Awesome Meta Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning)
 * [集成学习相关资源](https://github.com/yzhao062/awesome-ensemble-learning)
+* [spatiotemporal data modeling](https://github.com/xinychen/transdim)
 
 ## 一些公开数据集整理
   * [An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone!](https://github.com/awesomedata/awesome-public-datasets)
