@@ -25,6 +25,8 @@
 * [Awesome-DL-Scheduling-Papers](https://github.com/S-Lab-System-Group/Awesome-DL-Scheduling-Papers)
 * [Awesome-Graph-level-Neural-Networks](https://github.com/GeZhangMQ/Awesome-Graph-level-Neural-Networks)
 * [A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability](https://github.com/ChengtaiCao/Awesome-Mix)
+* [Awesome ChatGPT API](https://github.com/reorx/awesome-chatgpt-api)
+* [Awesome Remote Sensing Change Detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection)
 
 ## 一些公开数据集整理
   * [An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone!](https://github.com/awesomedata/awesome-public-datasets)
