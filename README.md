@@ -28,6 +28,7 @@
 * [Awesome ChatGPT API](https://github.com/reorx/awesome-chatgpt-api)
 * [Awesome Remote Sensing Change Detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection)
 * [Awesome-Data-Centric-AI](https://github.com/daochenzha/data-centric-AI)
+* [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 
 ## 一些公开数据集整理
   * [An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone!](https://github.com/awesomedata/awesome-public-datasets)
