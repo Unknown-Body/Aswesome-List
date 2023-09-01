@@ -1,4 +1,4 @@
-# Aswesome-List
+![image](https://github.com/zhilonglu/Aswesome-List/assets/14245407/9fec8744-3245-4293-9bdf-17da6d9ac921)# Aswesome-List
 主要是收集了一些Awesome project
 
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
@@ -29,6 +29,7 @@
 * [Awesome Remote Sensing Change Detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection)
 * [Awesome-Data-Centric-AI](https://github.com/daochenzha/data-centric-AI)
 * [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
+* [awesome-large-graph-model](https://github.com/THUMNLab/awesome-large-graph-model)
 
 ## deep learning implementations
 * [annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
