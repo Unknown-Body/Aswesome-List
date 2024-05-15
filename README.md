@@ -25,12 +25,16 @@
 * [Awesome-DL-Scheduling-Papers](https://github.com/S-Lab-System-Group/Awesome-DL-Scheduling-Papers)
 * [Awesome-Graph-level-Neural-Networks](https://github.com/GeZhangMQ/Awesome-Graph-level-Neural-Networks)
 * [A Survey of Mix-based Data Augmentation: Taxonomy, Methods, Applications, and Explainability](https://github.com/ChengtaiCao/Awesome-Mix)
-* [Awesome ChatGPT API](https://github.com/reorx/awesome-chatgpt-api)
 * [Awesome Remote Sensing Change Detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection)
 * [Awesome-Data-Centric-AI](https://github.com/daochenzha/data-centric-AI)
+
+
+## LLM related
+* [Awesome ChatGPT API](https://github.com/reorx/awesome-chatgpt-api)
 * [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 * [awesome-large-graph-model](https://github.com/THUMNLab/awesome-large-graph-model)
-
+* [Awesome-Code-LLM](https://github.com/huybery/Awesome-Code-LLM)
+* 
 ## deep learning implementations
 * [annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 
