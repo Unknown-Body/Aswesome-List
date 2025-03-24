@@ -35,6 +35,7 @@
 * [awesome-large-graph-model](https://github.com/THUMNLab/awesome-large-graph-model)
 * [Awesome-Code-LLM](https://github.com/huybery/Awesome-Code-LLM)
 * [awesome-LLM-resourses](https://github.com/WangRongsheng/awesome-LLM-resourses)
+* [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps?tab=readme-ov-file)
 ## deep learning implementations
 * [annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 
